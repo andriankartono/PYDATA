@@ -1,0 +1,10 @@
+{
+    "10881" : {"country" : "Germany", "city" : "Malsch", "street" : "Silcherstraße"},
+    "11036" : {"country" : "France", "city" : "Rennes", "street" : "Bd Marbeuf"},
+    "11077" : {"country" : "Bulgaria", "city" : "Sofia", "street" : "Младост 4" },
+    "11114" : {"country" : "Germany", "city" : "Hessisch Oldendorf", "street" : "Lindenstraße"},
+    "13594" : {"country" : "Germany", "city" : "Konstanz", "street" : "Sankt-Martins Weg"},
+    "10261" : {"country" : "Bulgaria", "city" : "Sofia", "street" : "Zabel" },
+    "13126" : {"country" : "Bulgaria", "city" : "Borovitsa", "street" : "-" },
+    "21779" : {"country" : "Poland", "city" : "Warsaw", "street" : "Powstańców Śląskich" }
+}
